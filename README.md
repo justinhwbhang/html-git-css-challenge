@@ -1,3 +1,13 @@
+# Justin Bong's Challenge README
+
+I definately need to work on this more to be able to do all this off top.
+Included:
+- CSS Selector Refactoring
+- HTML Semantic Tags
+- Added meta data to head
+
+---
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
